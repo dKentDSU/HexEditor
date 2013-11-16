@@ -1,0 +1,124 @@
+<Group> defaultobject {
+  <Group> Pyramid001 {
+    <VertexPool> Pyramid001 {
+      <Vertex> 0 {
+        -0.0464 -1.4419 40.005
+        <Normal> { 0 -0.9701 0.2425 }
+      }
+      <Vertex> 1 {
+        -10.0464 -11.4419 0.005
+        <Normal> { 0 -0.9701 0.2425 }
+      }
+      <Vertex> 2 {
+        9.9536 -11.4419 0.005
+        <Normal> { 0 -0.9701 0.2425 }
+      }
+      <Vertex> 3 {
+        -0.0464 -1.4419 40.005
+        <Normal> { 0.9701 0 0.2425 }
+      }
+      <Vertex> 4 {
+        9.9536 -11.4419 0.005
+        <Normal> { 0.9701 0 0.2425 }
+      }
+      <Vertex> 5 {
+        9.9536 8.5581 0.005
+        <Normal> { 0.9701 0 0.2425 }
+      }
+      <Vertex> 6 {
+        -0.0464 -1.4419 40.005
+        <Normal> { 0 0.9701 0.2425 }
+      }
+      <Vertex> 7 {
+        9.9536 8.5581 0.005
+        <Normal> { 0 0.9701 0.2425 }
+      }
+      <Vertex> 8 {
+        -10.0464 8.5581 0.005
+        <Normal> { 0 0.9701 0.2425 }
+      }
+      <Vertex> 9 {
+        -0.0464 -1.4419 40.005
+        <Normal> { -0.9701 0 0.2425 }
+      }
+      <Vertex> 10 {
+        -10.0464 8.5581 0.005
+        <Normal> { -0.9701 0 0.2425 }
+      }
+      <Vertex> 11 {
+        -10.0464 -11.4419 0.005
+        <Normal> { -0.9701 0 0.2425 }
+      }
+      <Vertex> 12 {
+        -10.0464 -11.4419 0.005
+        <Normal> { 0 0 -1 }
+      }
+      <Vertex> 13 {
+        -0.0464 -1.4419 0.005
+        <Normal> { 0 0 -1 }
+      }
+      <Vertex> 14 {
+        9.9536 -11.4419 0.005
+        <Normal> { 0 0 -1 }
+      }
+      <Vertex> 15 {
+        9.9536 8.5581 0.005
+        <Normal> { 0 0 -1 }
+      }
+      <Vertex> 16 {
+        -10.0464 8.5581 0.005
+        <Normal> { 0 0 -1 }
+      }
+      <Vertex> 17 {
+        -0.0464 -1.4419 40.005
+      }
+      <Vertex> 18 {
+        -10.0464 -11.4419 0.005
+      }
+      <Vertex> 19 {
+        9.9536 -11.4419 0.005
+      }
+      <Vertex> 20 {
+        9.9536 8.5581 0.005
+      }
+      <Vertex> 21 {
+        -10.0464 8.5581 0.005
+      }
+      <Vertex> 22 {
+        -0.0464 -1.4419 0.005
+      }
+    }
+    <Polygon> {
+      <Normal> { 0 -0.970143 0.242536 }
+      <VertexRef> { 17 18 19 <Ref> { Pyramid001 } }
+    }
+    <Polygon> {
+      <Normal> { 0.970143 0 0.242536 }
+      <VertexRef> { 17 19 20 <Ref> { Pyramid001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 0.970143 0.242536 }
+      <VertexRef> { 17 20 21 <Ref> { Pyramid001 } }
+    }
+    <Polygon> {
+      <Normal> { -0.970143 0 0.242536 }
+      <VertexRef> { 17 21 18 <Ref> { Pyramid001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 0 -1 }
+      <VertexRef> { 18 22 19 <Ref> { Pyramid001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 0 -1 }
+      <VertexRef> { 19 22 20 <Ref> { Pyramid001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 0 -1 }
+      <VertexRef> { 20 22 21 <Ref> { Pyramid001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 0 -1 }
+      <VertexRef> { 21 22 18 <Ref> { Pyramid001 } }
+    }
+  }
+}

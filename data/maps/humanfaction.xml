@@ -1,0 +1,109 @@
+<faction>
+	<fname> Human <fname>
+	<building>
+		<bname> Fortress </bname>
+		<btype> 0 </btype>
+	</building>
+	<building>
+		<bname> Bunker </bname>
+		<btype> 1 </btype>
+	</building>
+	<building>
+		<bname> Gun Emplacement </bname>
+		<btype> 2 </btype>
+	</building>
+	<building>
+		<bname> Factory </bname>
+		<btype> 3 </btype>
+	</building>
+	<building>
+		<bname> Air Field </bname>
+		<btype> 4 </btype>
+	</building>
+	<unit>
+		<name> Swashbuckler </name>
+		<cost> 20 </cost>
+		<type> 0 </type>
+		<attackDie> 1 </attackDie>
+		<defenseDie> 1 </defenseDie>
+		<move> 2 </move>
+		<health> 1 </health>
+	</unit>
+	<unit>
+		<name> Duelist </name>
+		<cost> 30 </cost>
+		<type> 0 </type>
+		<attackDie> 2 </attackDie>
+		<defenseDie> 2 </defenseDie>
+		<move> 1 </move>
+		<health> 1 </health>
+	</unit>
+	<unit>
+		<name> Gunner </name>
+		<cost> 40 </cost>
+		<type> 0 </type>
+		<attackDie> 3 </attackDie>
+		<defenseDie> 2 </defenseDie>
+		<move> 1 </move>
+		<health> 1 </health>
+	</unit>
+	<unit>
+		<name> Scout Bike </name>
+		<cost> 30 </cost>
+		<type> 1 </type>
+		<attackDie> 1 </attackDie>
+		<defenseDie> 1 </defenseDie>
+		<move> 3 </move>
+		<health> 1 </health>
+	</unit>
+	<unit>
+		<name> Half Track </name>
+		<cost> 50 </cost>
+		<type> 1 </type>
+		<attackDie> 3 </attackDie>
+		<defenseDie> 2 </defenseDie>
+		<move> 2 </move>
+		<health> 1 </health>
+	</unit>
+	<unit>
+		<name> Tank </name>
+		<cost> 70 </cost>
+		<type> 1 </type>
+		<attackDie> 4 </attackDie>
+		<defenseDie> 4 </defenseDie>
+		<move> 1 </move>
+		<health> 1 </health>
+	</unit>
+	<unit>
+		<name> Corsair </name>
+		<cost> 40 </cost>
+		<type> 2 </type>
+		<attackDie> 1 </attackDie>
+		<defenseDie> 2 </defenseDie>
+		<move> 3 </move>
+		<health> 1 </health>
+	</unit>
+	<unit>
+		<name> Cruiser </name>
+		<cost> 60 </cost>
+		<type> 2 </type>
+		<attackDie> 3 </attackDie>
+		<defenseDie> 2 </defenseDie>
+		<move> 3 </move>
+		<health> 1 </health>
+	</unit>
+	<unit>
+		<name> Destroyer </name>
+		<cost> 80 </cost>
+		<type> 2 </type>
+		<attackDie> 4 </attackDie>
+		<defenseDie> 4 </defenseDie>
+		<move> 2 </move>
+		<health> 1 </health>
+	</unit>
+	<upgrade>
+		<uvalue> 0 </uvalue>
+		<uvalue> 1 </uvalue>
+		<uvalue> 2 </uvalue>
+	</upgrade>
+</faction>

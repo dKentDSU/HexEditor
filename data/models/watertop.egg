@@ -1,0 +1,64 @@
+<CoordinateSystem> { Y-Up-Left }
+
+<Comment> {
+  "x2egg watertop.X watertop.egg"
+}
+<Texture> tref1 {
+  water.jpg
+}
+<Material> mref1 {
+  <Scalar> diffr { 1 }
+  <Scalar> diffg { 1 }
+  <Scalar> diffb { 1 }
+  <Scalar> diffa { 0.5 }
+  <Scalar> specr { 0.099 }
+  <Scalar> specg { 0.099 }
+  <Scalar> specb { 0.099 }
+  <Scalar> shininess { 0.32 }
+}
+<Group> Plane001 {
+  <Transform> {
+    <Matrix4> {
+      1 0 0 0
+      0 1 0 0
+      0 0 1 0
+      0 0 0 1
+    }
+  }
+  <Group> {
+    <VertexPool> vpool1 {
+      <Vertex> 0 {
+        -50 0 -50
+        <UV> { -2.275 -1.42115 }
+        <Normal> { 0 1 0 }
+      }
+      <Vertex> 1 {
+        50 0 50
+        <UV> { 3.275 2.42115 }
+        <Normal> { 0 1 0 }
+      }
+      <Vertex> 2 {
+        -50 0 50
+        <UV> { -2.275 2.42116 }
+        <Normal> { 0 1 0 }
+      }
+      <Vertex> 3 {
+        50 0 -50
+        <UV> { 3.275 -1.42115 }
+        <Normal> { 0 1 0 }
+      }
+    }
+    <Polygon> {
+      <RGBA> { 1 1 1 0.5 }
+      <TRef> { tref1 }
+      <MRef> { mref1 }
+      <VertexRef> { 0 1 2 <Ref> { vpool1 } }
+    }
+    <Polygon> {
+      <RGBA> { 1 1 1 0.5 }
+      <TRef> { tref1 }
+      <MRef> { mref1 }
+      <VertexRef> { 1 0 3 <Ref> { vpool1 } }
+    }
+  }
+}

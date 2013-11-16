@@ -1,0 +1,174 @@
+<Group> defaultobject {
+  <Group> Box001 {
+    <VertexPool> Box001 {
+      <Vertex> 0 {
+        -5 -5 0
+        <Normal> { 0 0 -1 }
+      }
+      <Vertex> 1 {
+        -5 5 0
+        <Normal> { 0 0 -1 }
+      }
+      <Vertex> 2 {
+        5 5 0
+        <Normal> { 0 0 -1 }
+      }
+      <Vertex> 3 {
+        5 -5 0
+        <Normal> { 0 0 -1 }
+      }
+      <Vertex> 4 {
+        -5 -5 40
+        <Normal> { 0 0 1 }
+      }
+      <Vertex> 5 {
+        5 -5 40
+        <Normal> { 0 0 1 }
+      }
+      <Vertex> 6 {
+        5 5 40
+        <Normal> { 0 0 1 }
+      }
+      <Vertex> 7 {
+        -5 5 40
+        <Normal> { 0 0 1 }
+      }
+      <Vertex> 8 {
+        -5 -5 0
+        <Normal> { 0 -1 0 }
+      }
+      <Vertex> 9 {
+        5 -5 0
+        <Normal> { 0 -1 0 }
+      }
+      <Vertex> 10 {
+        5 -5 40
+        <Normal> { 0 -1 0 }
+      }
+      <Vertex> 11 {
+        -5 -5 40
+        <Normal> { 0 -1 0 }
+      }
+      <Vertex> 12 {
+        5 -5 0
+        <Normal> { 1 0 0 }
+      }
+      <Vertex> 13 {
+        5 5 0
+        <Normal> { 1 0 0 }
+      }
+      <Vertex> 14 {
+        5 5 40
+        <Normal> { 1 0 0 }
+      }
+      <Vertex> 15 {
+        5 -5 40
+        <Normal> { 1 0 0 }
+      }
+      <Vertex> 16 {
+        5 5 0
+        <Normal> { 0 1 0 }
+      }
+      <Vertex> 17 {
+        -5 5 0
+        <Normal> { 0 1 0 }
+      }
+      <Vertex> 18 {
+        -5 5 40
+        <Normal> { 0 1 0 }
+      }
+      <Vertex> 19 {
+        5 5 40
+        <Normal> { 0 1 0 }
+      }
+      <Vertex> 20 {
+        -5 5 0
+        <Normal> { -1 0 0 }
+      }
+      <Vertex> 21 {
+        -5 -5 0
+        <Normal> { -1 0 0 }
+      }
+      <Vertex> 22 {
+        -5 -5 40
+        <Normal> { -1 0 0 }
+      }
+      <Vertex> 23 {
+        -5 5 40
+        <Normal> { -1 0 0 }
+      }
+      <Vertex> 24 {
+        -5 -5 0
+      }
+      <Vertex> 25 {
+        -5 5 0
+      }
+      <Vertex> 26 {
+        5 5 0
+      }
+      <Vertex> 27 {
+        5 -5 0
+      }
+      <Vertex> 28 {
+        -5 -5 40
+      }
+      <Vertex> 29 {
+        5 -5 40
+      }
+      <Vertex> 30 {
+        5 5 40
+      }
+      <Vertex> 31 {
+        -5 5 40
+      }
+    }
+    <Polygon> {
+      <Normal> { 0 0 -1 }
+      <VertexRef> { 24 25 26 <Ref> { Box001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 0 -1 }
+      <VertexRef> { 26 27 24 <Ref> { Box001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 0 1 }
+      <VertexRef> { 28 29 30 <Ref> { Box001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 0 1 }
+      <VertexRef> { 30 31 28 <Ref> { Box001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 -1 0 }
+      <VertexRef> { 24 27 29 <Ref> { Box001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 -1 0 }
+      <VertexRef> { 29 28 24 <Ref> { Box001 } }
+    }
+    <Polygon> {
+      <Normal> { 1 0 0 }
+      <VertexRef> { 27 26 30 <Ref> { Box001 } }
+    }
+    <Polygon> {
+      <Normal> { 1 0 0 }
+      <VertexRef> { 30 29 27 <Ref> { Box001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 1 0 }
+      <VertexRef> { 26 25 31 <Ref> { Box001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 1 0 }
+      <VertexRef> { 31 30 26 <Ref> { Box001 } }
+    }
+    <Polygon> {
+      <Normal> { -1 0 0 }
+      <VertexRef> { 25 24 28 <Ref> { Box001 } }
+    }
+    <Polygon> {
+      <Normal> { -1 0 0 }
+      <VertexRef> { 28 31 25 <Ref> { Box001 } }
+    }
+  }
+}

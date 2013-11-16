@@ -1,0 +1,608 @@
+<Group> defaultobject {
+  <Group> Cylinder001 {
+    <VertexPool> Cylinder001 {
+      <Vertex> 0 {
+        0 0 0
+        <Normal> { 0 0 -1 }
+      }
+      <Vertex> 1 {
+        20 34.641 0
+        <Normal> { 0 0 -1 }
+      }
+      <Vertex> 2 {
+        40 0 0
+        <Normal> { 0 0 -1 }
+      }
+      <Vertex> 3 {
+        -20 34.641 0
+        <Normal> { 0 0 -1 }
+      }
+      <Vertex> 4 {
+        -40 -0 0
+        <Normal> { 0 0 -1 }
+      }
+      <Vertex> 5 {
+        -20 -34.641 0
+        <Normal> { 0 0 -1 }
+      }
+      <Vertex> 6 {
+        20 -34.641 0
+        <Normal> { 0 0 -1 }
+      }
+      <Vertex> 7 {
+        40 0 0
+        <Normal> { 1 0 0 }
+      }
+      <Vertex> 8 {
+        20 34.641 2
+        <Normal> { 0.5 0.866 0 }
+      }
+      <Vertex> 9 {
+        40 0 2
+        <Normal> { 1 0 0 }
+      }
+      <Vertex> 10 {
+        20 34.641 0
+        <Normal> { 0.5 0.866 0 }
+      }
+      <Vertex> 11 {
+        -20 34.641 2
+        <Normal> { -0.5 0.866 0 }
+      }
+      <Vertex> 12 {
+        -20 34.641 0
+        <Normal> { -0.5 0.866 0 }
+      }
+      <Vertex> 13 {
+        -40 -0 2
+        <Normal> { -1 0 0 }
+      }
+      <Vertex> 14 {
+        -40 -0 0
+        <Normal> { -1 0 0 }
+      }
+      <Vertex> 15 {
+        -20 -34.641 2
+        <Normal> { -0.5 -0.866 0 }
+      }
+      <Vertex> 16 {
+        -20 -34.641 0
+        <Normal> { -0.5 -0.866 0 }
+      }
+      <Vertex> 17 {
+        20 -34.641 2
+        <Normal> { 0.5 -0.866 0 }
+      }
+      <Vertex> 18 {
+        20 -34.641 0
+        <Normal> { 0.5 -0.866 0 }
+      }
+      <Vertex> 19 {
+        20 34.641 4
+        <Normal> { 0.5 0.866 0 }
+      }
+      <Vertex> 20 {
+        40 0 4
+        <Normal> { 1 0 0 }
+      }
+      <Vertex> 21 {
+        -20 34.641 4
+        <Normal> { -0.5 0.866 0 }
+      }
+      <Vertex> 22 {
+        -40 -0 4
+        <Normal> { -1 0 0 }
+      }
+      <Vertex> 23 {
+        -20 -34.641 4
+        <Normal> { -0.5 -0.866 0 }
+      }
+      <Vertex> 24 {
+        20 -34.641 4
+        <Normal> { 0.5 -0.866 0 }
+      }
+      <Vertex> 25 {
+        20 34.641 6
+        <Normal> { 0.5 0.866 0 }
+      }
+      <Vertex> 26 {
+        40 0 6
+        <Normal> { 1 0 0 }
+      }
+      <Vertex> 27 {
+        -20 34.641 6
+        <Normal> { -0.5 0.866 0 }
+      }
+      <Vertex> 28 {
+        -40 -0 6
+        <Normal> { -1 0 0 }
+      }
+      <Vertex> 29 {
+        -20 -34.641 6
+        <Normal> { -0.5 -0.866 0 }
+      }
+      <Vertex> 30 {
+        20 -34.641 6
+        <Normal> { 0.5 -0.866 0 }
+      }
+      <Vertex> 31 {
+        20 34.641 8
+        <Normal> { 0.5 0.866 0 }
+      }
+      <Vertex> 32 {
+        40 0 8
+        <Normal> { 1 0 0 }
+      }
+      <Vertex> 33 {
+        -20 34.641 8
+        <Normal> { -0.5 0.866 0 }
+      }
+      <Vertex> 34 {
+        -40 -0 8
+        <Normal> { -1 0 0 }
+      }
+      <Vertex> 35 {
+        -20 -34.641 8
+        <Normal> { -0.5 -0.866 0 }
+      }
+      <Vertex> 36 {
+        20 -34.641 8
+        <Normal> { 0.5 -0.866 0 }
+      }
+      <Vertex> 37 {
+        20 34.641 10
+        <Normal> { 0.5 0.866 0 }
+      }
+      <Vertex> 38 {
+        40 0 10
+        <Normal> { 1 0 0 }
+      }
+      <Vertex> 39 {
+        -20 34.641 10
+        <Normal> { -0.5 0.866 0 }
+      }
+      <Vertex> 40 {
+        -40 -0 10
+        <Normal> { -1 0 0 }
+      }
+      <Vertex> 41 {
+        -20 -34.641 10
+        <Normal> { -0.5 -0.866 0 }
+      }
+      <Vertex> 42 {
+        20 -34.641 10
+        <Normal> { 0.5 -0.866 0 }
+      }
+      <Vertex> 43 {
+        0 0 10
+        <Normal> { 0 0 1 }
+      }
+      <Vertex> 44 {
+        40 0 10
+        <Normal> { 0 0 1 }
+      }
+      <Vertex> 45 {
+        20 34.641 10
+        <Normal> { 0 0 1 }
+      }
+      <Vertex> 46 {
+        -20 34.641 10
+        <Normal> { 0 0 1 }
+      }
+      <Vertex> 47 {
+        -40 -0 10
+        <Normal> { 0 0 1 }
+      }
+      <Vertex> 48 {
+        -20 -34.641 10
+        <Normal> { 0 0 1 }
+      }
+      <Vertex> 49 {
+        20 -34.641 10
+        <Normal> { 0 0 1 }
+      }
+      <Vertex> 50 {
+        0 0 0
+      }
+      <Vertex> 51 {
+        20 34.641 0
+      }
+      <Vertex> 52 {
+        40 0 0
+      }
+      <Vertex> 53 {
+        -20 34.641 0
+      }
+      <Vertex> 54 {
+        -40 -0 0
+      }
+      <Vertex> 55 {
+        -20 -34.641 0
+      }
+      <Vertex> 56 {
+        20 -34.641 0
+      }
+      <Vertex> 57 {
+        20 34.641 2
+      }
+      <Vertex> 58 {
+        40 0 2
+      }
+      <Vertex> 59 {
+        -20 34.641 2
+      }
+      <Vertex> 60 {
+        -40 -0 2
+      }
+      <Vertex> 61 {
+        -20 -34.641 2
+      }
+      <Vertex> 62 {
+        20 -34.641 2
+      }
+      <Vertex> 63 {
+        20 34.641 4
+      }
+      <Vertex> 64 {
+        40 0 4
+      }
+      <Vertex> 65 {
+        -20 34.641 4
+      }
+      <Vertex> 66 {
+        -40 -0 4
+      }
+      <Vertex> 67 {
+        -20 -34.641 4
+      }
+      <Vertex> 68 {
+        20 -34.641 4
+      }
+      <Vertex> 69 {
+        20 34.641 6
+      }
+      <Vertex> 70 {
+        40 0 6
+      }
+      <Vertex> 71 {
+        -20 34.641 6
+      }
+      <Vertex> 72 {
+        -40 -0 6
+      }
+      <Vertex> 73 {
+        -20 -34.641 6
+      }
+      <Vertex> 74 {
+        20 -34.641 6
+      }
+      <Vertex> 75 {
+        20 34.641 8
+      }
+      <Vertex> 76 {
+        40 0 8
+      }
+      <Vertex> 77 {
+        -20 34.641 8
+      }
+      <Vertex> 78 {
+        -40 -0 8
+      }
+      <Vertex> 79 {
+        -20 -34.641 8
+      }
+      <Vertex> 80 {
+        20 -34.641 8
+      }
+      <Vertex> 81 {
+        20 34.641 10
+      }
+      <Vertex> 82 {
+        40 0 10
+      }
+      <Vertex> 83 {
+        -20 34.641 10
+      }
+      <Vertex> 84 {
+        -40 -0 10
+      }
+      <Vertex> 85 {
+        -20 -34.641 10
+      }
+      <Vertex> 86 {
+        20 -34.641 10
+      }
+      <Vertex> 87 {
+        0 0 10
+      }
+    }
+    <Polygon> {
+      <Normal> { 0 0 -1 }
+      <VertexRef> { 50 51 52 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 0 -1 }
+      <VertexRef> { 50 53 51 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 0 -1 }
+      <VertexRef> { 50 54 53 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 0 -1 }
+      <VertexRef> { 50 55 54 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 0 -1 }
+      <VertexRef> { 50 56 55 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 0 -1 }
+      <VertexRef> { 50 52 56 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0.866025 0.5 0 }
+      <VertexRef> { 52 57 58 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0.866025 0.5 0 }
+      <VertexRef> { 52 51 57 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 1 0 }
+      <VertexRef> { 51 59 57 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 1 0 }
+      <VertexRef> { 51 53 59 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { -0.866025 0.5 0 }
+      <VertexRef> { 53 60 59 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { -0.866025 0.5 0 }
+      <VertexRef> { 53 54 60 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { -0.866025 -0.5 0 }
+      <VertexRef> { 54 61 60 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { -0.866025 -0.5 0 }
+      <VertexRef> { 54 55 61 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 -1 0 }
+      <VertexRef> { 55 62 61 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 -1 0 }
+      <VertexRef> { 55 56 62 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0.866025 -0.5 0 }
+      <VertexRef> { 56 58 62 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0.866025 -0.5 0 }
+      <VertexRef> { 56 52 58 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0.866025 0.5 0 }
+      <VertexRef> { 58 63 64 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0.866025 0.5 0 }
+      <VertexRef> { 58 57 63 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 1 0 }
+      <VertexRef> { 57 65 63 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 1 0 }
+      <VertexRef> { 57 59 65 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { -0.866025 0.5 0 }
+      <VertexRef> { 59 66 65 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { -0.866025 0.5 0 }
+      <VertexRef> { 59 60 66 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { -0.866025 -0.5 0 }
+      <VertexRef> { 60 67 66 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { -0.866025 -0.5 0 }
+      <VertexRef> { 60 61 67 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 -1 0 }
+      <VertexRef> { 61 68 67 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 -1 0 }
+      <VertexRef> { 61 62 68 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0.866025 -0.5 0 }
+      <VertexRef> { 62 64 68 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0.866025 -0.5 0 }
+      <VertexRef> { 62 58 64 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0.866025 0.5 0 }
+      <VertexRef> { 64 69 70 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0.866025 0.5 0 }
+      <VertexRef> { 64 63 69 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 1 0 }
+      <VertexRef> { 63 71 69 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 1 0 }
+      <VertexRef> { 63 65 71 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { -0.866025 0.5 0 }
+      <VertexRef> { 65 72 71 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { -0.866025 0.5 0 }
+      <VertexRef> { 65 66 72 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { -0.866025 -0.5 0 }
+      <VertexRef> { 66 73 72 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { -0.866025 -0.5 0 }
+      <VertexRef> { 66 67 73 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 -1 0 }
+      <VertexRef> { 67 74 73 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 -1 0 }
+      <VertexRef> { 67 68 74 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0.866025 -0.5 0 }
+      <VertexRef> { 68 70 74 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0.866025 -0.5 0 }
+      <VertexRef> { 68 64 70 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0.866025 0.5 0 }
+      <VertexRef> { 70 75 76 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0.866025 0.5 0 }
+      <VertexRef> { 70 69 75 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 1 0 }
+      <VertexRef> { 69 77 75 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 1 0 }
+      <VertexRef> { 69 71 77 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { -0.866025 0.5 0 }
+      <VertexRef> { 71 78 77 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { -0.866025 0.5 0 }
+      <VertexRef> { 71 72 78 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { -0.866025 -0.5 0 }
+      <VertexRef> { 72 79 78 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { -0.866025 -0.5 0 }
+      <VertexRef> { 72 73 79 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 -1 0 }
+      <VertexRef> { 73 80 79 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 -1 0 }
+      <VertexRef> { 73 74 80 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0.866025 -0.5 0 }
+      <VertexRef> { 74 76 80 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0.866025 -0.5 0 }
+      <VertexRef> { 74 70 76 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0.866025 0.5 0 }
+      <VertexRef> { 76 81 82 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0.866025 0.5 0 }
+      <VertexRef> { 76 75 81 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 1 0 }
+      <VertexRef> { 75 83 81 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 1 0 }
+      <VertexRef> { 75 77 83 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { -0.866025 0.5 0 }
+      <VertexRef> { 77 84 83 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { -0.866025 0.5 0 }
+      <VertexRef> { 77 78 84 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { -0.866025 -0.5 0 }
+      <VertexRef> { 78 85 84 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { -0.866025 -0.5 0 }
+      <VertexRef> { 78 79 85 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 -1 0 }
+      <VertexRef> { 79 86 85 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 -1 0 }
+      <VertexRef> { 79 80 86 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0.866025 -0.5 0 }
+      <VertexRef> { 80 82 86 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0.866025 -0.5 0 }
+      <VertexRef> { 80 76 82 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 0 1 }
+      <VertexRef> { 87 82 81 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 0 1 }
+      <VertexRef> { 87 81 83 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 0 1 }
+      <VertexRef> { 87 83 84 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 0 1 }
+      <VertexRef> { 87 84 85 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 0 1 }
+      <VertexRef> { 87 85 86 <Ref> { Cylinder001 } }
+    }
+    <Polygon> {
+      <Normal> { 0 0 1 }
+      <VertexRef> { 87 86 82 <Ref> { Cylinder001 } }
+    }
+  }
+}
